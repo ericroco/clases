@@ -1,5 +1,3 @@
-Entendido. A continuación, te presento la documentación de wireframe actualizada para la aplicación "PiensaPlay", teniendo en cuenta que el inicio de sesión/bienvenida será local y no requerirá la creación de una cuenta con contraseña:
-
 # Documentación de Wireframe para la Aplicación "PiensaPlay"
 
 ## 1. Introducción
@@ -315,9 +313,3 @@ La navegación debe ser simple y directa, con una barra de menú fija en la part
 - Contraste adecuado entre texto y fondo
 - Opciones de ajuste de texto para usuarios con dificultades visuales
 - Compatibilidad con lectores de pantalla
-
-## 7. Conclusiones
-
-La documentación de wireframe para "PiensaPlay" proporciona una base sólida para el desarrollo de la aplicación. Al seguir estas directrices, se asegura que la aplicación cumpla con los objetivos establecidos y ofrezca una experiencia educativa valiosa y atractiva para los niños en su proceso de alfabetización mediática e informacional.
-
-Esperamos que esta documentación sirva como herramienta efectiva para el equipo de desarrollo y garantice el éxito del proyecto "PiensaPlay".
