@@ -320,22 +320,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 15. Recursos Educativos Integrados  
-
-### Videos  
-- **"¿Qué es una Fake News?"** – Explica cómo identificar noticias falsas.  
-- **"Cómo crear una contraseña segura"** – Tutorial interactivo.  
-
-### Artículos  
-- **"Noticias confiables"** – Cómo verificar fuentes y evitar desinformación.  
-
-### Notificaciones  
-- **Recordatorios programables:** "¡Es hora de jugar! El desafío del día te espera."  
-- **Notificaciones de nuevos términos:** "¡Nuevo término añadido: 'Fuente confiable'".  
-
----
-
-## 16. Personalización del Avatar  
+## 15. Personalización del Avatar  
 
 ### Opciones Disponibles  
 - **Género:** Opciones neutrales y representativas.  
@@ -348,7 +333,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 17. Sistema de Recompensas  
+## 16. Sistema de Recompensas  
 
 ### Insignias Ganadas  
 - **Comentario respetuoso:** Opinión sin ofensas.  
@@ -361,7 +346,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 18. Evaluación y Retroalimentación  
+## 17. Evaluación y Retroalimentación  
 
 ### Retroalimentación Inmediata  
 - En juegos y desafíos, se muestran mensajes de éxito o sugerencias de mejora tras completar una actividad.  
@@ -374,7 +359,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 19. Interacción Social (Opcional)  
+## 18. Interacción Social (Opcional)  
 
 ### Compartir Resultados  
 - Opción de compartir logros con padres o tutores (con consentimiento).  
@@ -386,19 +371,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 20. Recursos para Familias y Docentes  
-
-### Guías para Padres  
-- **"Cómo hablar con tus hijos sobre seguridad digital."**  
-- **"Identificar contenido inapropiado online."**  
-
-### Recursos para Docentes  
-- **Actividades complementarias para el aula.**  
-- **Cómo integrar PiensaPlay en el currículo escolar.**  
-
----
-
-## 21. Integración con el Entorno Escolar  
+## 19. Integración con el Entorno Escolar  
 
 ### Uso en Aulas  
 - **Asignación de desafíos por parte del docente.**  
@@ -410,7 +383,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 22. Consideraciones Culturales y Contextuales  
+## 20. Consideraciones Culturales y Contextuales  
 
 ### Adaptación a Contextos Regionales  
 - **Ejemplos de noticias falsas según país.**  
@@ -422,7 +395,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 23. Contenido Adaptado a la Edad  
+## 21. Contenido Adaptado a la Edad  
 
 ### Nivel 1 (8-9 años)  
 - Conceptos básicos y ejercicios sencillos.  
@@ -438,7 +411,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 24. Interfaz Multilingüe  
+## 22. Interfaz Multilingüe  
 
 ### Idiomas Soportados  
 - Español  
@@ -452,7 +425,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 25. Consideraciones de Privacidad  
+## 23. Consideraciones de Privacidad  
 
 ### Datos Recopilados  
 - Nombre y edad (opcional).  
@@ -465,19 +438,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 26. Fluidez de la Experiencia de Usuario  
-
-### Navegación Intuitiva  
-- Menú inferior con iconos claros.  
-- Retroalimentación visual tras completar una acción.  
-
-### Tiempos de Carga  
-- Optimización para funcionar en dispositivos con conexiones lentas.  
-- Carga rápida de imágenes y videos cortos.  
-
----
-
-## 27. Recursos Adicionales por Categoría  
+## 24. Recursos Adicionales por Categoría  
 
 ### Análisis de Contenido  
 - **Video:** "¿Cómo identificar una noticia falsa?"  
@@ -493,7 +454,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 28. Dinámica de Desafíos y Juegos  
+## 25. Dinámica de Desafíos y Juegos  
 
 ### Desafíos Diarios  
 - **Duración:** 5-10 minutos.  
@@ -511,7 +472,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 29. Integración con el Módulo de Progreso  
+## 26. Integración con el Módulo de Progreso  
 
 ### Visualización de Avances  
 - **Por categoría:** Seguridad, Análisis, Producción.  
@@ -523,7 +484,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 30. Inclusión de Elementos Motivadores  
+## 27. Inclusión de Elementos Motivadores  
 
 ### Animaciones de Recompensa  
 - Al completar un juego o desafío, se muestra una animación celebratoria.  
@@ -535,7 +496,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 31. Interacción con la Mascota Guía  
+## 28. Interacción con la Mascota Guía  
 
 ### Papel de la Mascota  
 - Acompañar al usuario en desafíos y juegos.  
@@ -547,7 +508,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 32. Diseño Responsivo  
+## 27. Diseño Responsivo  
 
 ### Adaptación a Dispositivos  
 - Diseño pensado para móviles y tablets.  
@@ -559,19 +520,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 33. Integración con el Entorno Familiar  
-
-### Recursos para Padres  
-- **Guía rápida:** Cómo hablar con hijos sobre AMI.  
-- **Notificaciones para padres:** Sugerencias de juegos o desafíos para compartir.  
-
-### Uso Familiar  
-- Perfiles múltiples en un mismo dispositivo.  
-- Modo familiar con desafíos colaborativos.  
-
----
-
-## 34. Evaluación de Impacto Pedagógico  
+## 28. Evaluación de Impacto Pedagógico  
 
 ### Objetivos de Aprendizaje  
 - **Reconocimiento de noticias falsas.**  
@@ -585,7 +534,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 35. Actualizaciones y Contenido Dinámico  
+## 29. Actualizaciones y Contenido Dinámico  
 
 ### Actualizaciones Trimestrales  
 - Nuevos desafíos diarios.  
@@ -598,19 +547,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 36. Integración con Comunidades Educativas  
-
-### Uso en Escuelas  
-- Asignación de desafíos por parte del docente.  
-- Seguimiento del progreso en grupos.  
-
-### Certificados de Logro  
-- Opción de generar un certificado digital al completar un nivel.  
-- Compartir en entornos educativos (con consentimiento).  
-
----
-
-## 37. Interacción con Otros Usuarios  
+## 30. Interacción con Otros Usuarios  
 
 ### Modo Multijugador Local  
 - Desafíos por turnos entre amigos.  
@@ -622,7 +559,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 38. Diseño de la Pantalla de Inicio  
+## 31. Diseño de la Pantalla de Inicio  
 
 ### Elementos Clave  
 - **Logo animado:** Mascota guía en movimiento.  
@@ -633,25 +570,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 39. Dinámica de los Juegos Educativos  
-
-### Ejemplo: "Detective de Fake News"  
-- **Objetivo:** Identificar noticias falsas.  
-- **Mecánica:**  
-  - Mostrar una noticia con datos y fuentes.  
-  - Preguntar si es real o falsa.  
-  - Explicar la respuesta correcta con ejemplos.  
-
-### Ejemplo: "Redes sociales ¿amigas o peligrosas?"  
-- **Objetivo:** Tomar decisiones seguras en redes sociales.  
-- **Mecánica:**  
-  - Simulación de una situación (ej.: recibir mensaje de desconocido).  
-  - Seleccionar respuesta correcta.  
-  - Recibir retroalimentación inmediata.  
-
----
-
-## 40. Recursos Adicionales por Desafío  
+## 32. Recursos Adicionales por Desafío  
 
 ### Desafío: "¿Cómo sabes si una noticia es real?"  
 - **Video:** "¿Qué es una Fake News?"  
@@ -667,7 +586,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 41. Interfaz del Glosario  
+## 33. Interfaz del Glosario  
 
 ### Estructura  
 - **Lista de Términos:** Ordenados alfabéticamente.  
@@ -683,7 +602,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 42. Configuración del Perfil  
+## 34. Configuración del Perfil  
 
 ### Opciones Disponibles  
 - **Idioma:** Soporte para español, inglés y portugués.  
@@ -697,7 +616,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 43. Barra de Navegación Inferior  
+## 35. Barra de Navegación Inferior  
 
 ### Funcionalidad  
 - **Inicio:** Regresa a la pantalla principal.  
@@ -712,7 +631,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 44. Uso de Color y Contraste  
+## 36. Uso de Color y Contraste  
 
 ### Elección de Paleta  
 - **Verde (#4CAF50):** Crecimiento y confianza.  
@@ -726,12 +645,11 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 45. Animaciones y Transiciones  
+## 37. Animaciones y Transiciones  
 
 ### Tipos de Animaciones  
 - **Entrada de Pantalla:** Transición suave al navegar entre módulos.  
 - **Recompensas:** Animación celebratoria al completar un juego o desafío.  
-- **Mascota guía:** Movimientos y expresiones que acompañan al usuario.  
 
 ### Velocidad  
 - Animaciones rápidas que no interrumpen la experiencia.  
@@ -739,7 +657,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 46. Pruebas y Validación Pedagógica  
+## 38. Pruebas y Validación Pedagógica  
 
 ### Participantes en Pruebas  
 - Niños de 8-12 años de diferentes contextos educativos.  
@@ -752,73 +670,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 47. Recursos Adicionales por Categoría  
-
-### Análisis de Contenido  
-- **Video:** "Cómo verificar fuentes confiables."  
-- **Artículo:** "Identificar noticias falsas."  
-
-### Producción Digital  
-- **Video:** "Crea un video seguro y ético."  
-- **Plantilla:** Diseña tu propio contenido multimedia.  
-
-### Seguridad Online  
-- **Video:** "Riesgos y beneficios de las redes sociales."  
-- **Guía:** "Cómo proteger tus datos personales."  
-
----
-
-## 48. Interacción con la Mascota Guía  
-
-### Funciones  
-- Acompañar al usuario en desafíos y juegos.  
-- Ofrecer consejos y animaciones motivadoras.  
-
-### Personalización  
-- Seleccionar tipo de mascota (robot, animal, personaje).  
-- Desbloquear nuevos estilos de mascota con insignias ganadas.  
-
----
-
-## 49. Integración con el Curriculum Escolar  
-
-### Áreas Educativas Cubiertas  
-- **Tecnología y Medios:** Alfabetización digital.  
-- **Ética y Ciudadanía Digital:** Comunicación respetuosa y seguridad.  
-- **Lenguaje y Comunicación:** Análisis de noticias y contenido.  
-
-### Recursos para Docentes  
-- **Guías pedagógicas:** Cómo integrar PiensaPlay en clase.  
-- **Actividades complementarias:** Ejercicios para usar en el aula.  
-
----
-
-## 50. Recursos para el Hogar  
-
-### Guías para Padres  
-- **"Cómo hablar con tus hijos sobre seguridad digital."**  
-- **"Identificar noticias falsas en casa."**  
-- **"Crear contraseñas seguras en familia."**  
-
-### Actividades Familiares  
-- **Desafíos en familia:** Resolver un desafío diario con adultos.  
-- **Juegos colaborativos:** Jugar en equipo con padres o hermanos.  
-
----
-
-## 51. Plan de Contenido Dinámico  
-
-### Actualizaciones Mensuales  
-- Nuevas categorías de juegos.  
-- Desafíos adaptados a eventos actuales.  
-
-### Contenido Temporal  
-- Juegos especiales en fechas relevantes (ej.: Día de Internet Seguro).  
-- Desafíos basados en noticias del momento.  
-
----
-
-## 52. Evaluación de Satisfacción del Usuario  
+## 39. Evaluación de Satisfacción del Usuario  
 
 ### Mecanismos  
 - Encuestas de satisfacción tras completar 10 juegos.  
@@ -830,35 +682,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 53. Recursos Adicionales por Nivel de Juego  
-
-### Nivel 1 (8-9 años)  
-- **Video:** "¿Qué es una noticia falsa?"  
-- **Juego:** Clasificar noticias reales y falsas.  
-
-### Nivel 2 (10-11 años)  
-- **Video:** "Cómo verificar una fuente confiable."  
-- **Juego:** Analizar una noticia con datos reales.  
-
-### Nivel 3 (12 años)  
-- **Video:** "Cómo crear contenido seguro en redes sociales."  
-- **Juego:** Diseñar una campaña contra el ciberbullying.  
-
----
-
-## 54. Integración con Plataformas Educativas  
-
-### Compatibilidad  
-- Exportar progreso en formato CSV para plataformas escolares.  
-- Sincronización con herramientas educativas (ej.: Google Classroom).  
-
-### Uso en Línea  
-- Versión web accesible desde escuelas.  
-- Recursos para docentes sin conexión a internet.  
-
----
-
-## 55. Diseño de Actividades para Niños con Necesidades Especiales  
+## 40. Diseño de Actividades para Niños con Necesidades Especiales  
 
 ### Adaptaciones  
 - **Modo de alto contraste:** Mejor visibilidad para niños con discapacidad visual.  
@@ -871,23 +695,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 56. Recursos Adicionales por Categoría  
-
-### Seguridad Digital  
-- **Video:** "Cómo proteger tus datos en redes sociales."  
-- **Guía:** "Claves para una contraseña segura."  
-
-### Análisis de Contenido  
-- **Video:** "Cómo identificar noticias falsas."  
-- **Artículo:** "Verificación de fuentes confiables."  
-
-### Producción Digital  
-- **Video:** "Cómo crear contenido seguro."  
-- **Plantilla:** Generador de videos éticos.  
-
----
-
-## 57. Estrategia de Motivación Continua  
+## 41. Estrategia de Motivación Continua  
 
 ### Recordatorios  
 - Notificaciones a horas fijas (ej.: 18:00).  
@@ -899,20 +707,7 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 58. Integración con el Aula  
-
-### Recursos para Docentes  
-- **Guía para integrar PiensaPlay en clase.**  
-- **Actividades complementarias.**  
-- **Reportes de progreso.**  
-
-### Uso en Clase  
-- Resolver desafíos en grupo.  
-- Jugar en equipos para fomentar el trabajo colaborativo.  
-
----
-
-## 59. Recursos para Padres  
+## 42. Recursos para Padres  
 
 ### Guías de Uso  
 - **"Cómo usar PiensaPlay en casa."**  
@@ -924,6 +719,6 @@ Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras 
 
 ---
 
-## 60. Resumen Final  
+## 43. Resumen Final  
 
 PiensaPlay es una aplicación educativa diseñada para enseñar habilidades digitales esenciales a través del juego. Su estructura modular, diseño inclusivo y enfoque pedagógico garantizan una experiencia significativa y segura. Las mejoras sugeridas buscan optimizar la claridad, accesibilidad y motivación del usuario, asegurando un aprendizaje efectivo y divertido.
