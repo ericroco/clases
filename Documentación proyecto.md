@@ -1,15 +1,35 @@
-# Documentación Técnica y Funcional del Wireframe de la Aplicación PiensaPlay  
-**Tu entrenador en competencia mediática**
+# Documentación Completa del Wireframe  
+## Aplicación PiensaPlay – Tu entrenador en competencia mediática
+
+> **Versión 1.0**  
+> *Fecha: 5 de abril de 2025*
 
 ---
 
-## **1. Información General**
+## 📋 Índice
+
+1. [Información General](#información-general)  
+2. [Estructura Modular de la Aplicación](#estructura-modular-de-la-aplicación)  
+3. [Módulo 1: Pantalla de Bienvenida / Inicio Local](#módulo-1-pantalla-de-bienvenida--inicio-local)  
+4. [Módulo 2: Pantalla de Inicio](#módulo-2-pantalla-de-inicio)  
+5. [Módulo 3: Juegos Educativos](#módulo-3-juegos-educativos)  
+6. [Módulo 4: Desafíos Diarios](#módulo-4-desafíos-diarios)  
+7. [Módulo 5: Mi Progreso](#módulo-5-mi-progreso)  
+8. [Módulo 6: Glosario de Términos](#módulo-6-glosario-de-términos)  
+9. [Módulo 7: Perfil del Usuario](#módulo-7-perfil-del-usuario)  
+10. [Guía de Estilo Visual](#guía-de-estilo-visual)  
+11. [Consideraciones Técnicas](#consideraciones-técnicas)  
+12. [Escalabilidad Futura](#escalabilidad-futura)
+
+---
+
+## 1. Información General
 
 | Campo | Descripción |
 |-------|-------------|
 | **Nombre del Proyecto** | PiensaPlay |
 | **Subtítulo** | Tu entrenador en competencia mediática |
-| **Tipo de Aplicación** | Móvil (iOS/Android) – Versión web futura |
+| **Tipo de Aplicación** | Móvil (iOS/Android) |
 | **Público Objetivo Principal** | Niños y niñas de 8 a 12 años |
 | **Versión Futura** | Adolescentes, docentes, familias |
 | **Objetivo Principal** | Promover el aprendizaje de habilidades de Alfabetización Mediática e Informacional (AMI) mediante dinámicas lúdicas y educativas |
@@ -17,82 +37,73 @@
 
 ---
 
-## **2. Estructura Modular de la Aplicación**
+## 2. Estructura Modular de la Aplicación
 
-La aplicación se organiza en **siete módulos principales**, cada uno con un propósito específico, componentes visuales definidos y funcionalidades asociadas.
+La aplicación se divide en **7 módulos principales**, cada uno con su propósito, componentes visuales y funcionalidades asociadas:
 
 | Número | Módulo | Propósito |
 |--------|--------|-----------|
-| 1 | Pantalla de Bienvenida / Inicio Local | Personalizar la experiencia del usuario sin necesidad de crear cuentas o usar contraseñas |
-| 2 | Pantalla de Inicio | Ser el punto de entrada principal de la aplicación, ofreciendo una interfaz amigable y motivadora tras el inicio local |
+| 1 | Pantalla de Bienvenida / Inicio Local | Personalizar la experiencia del niño sin necesidad de crear cuentas o usar contraseñas |
+| 2 | Pantalla de Inicio | Ser el punto de entrada principal de la aplicación |
 | 3 | Juegos Educativos | Ofrecer actividades interactivas clasificadas por categorías temáticas para enseñar habilidades AMI de forma divertida |
-| 4 | Desafíos Diarios | Proporcionar una actividad breve diaria que refuerce conceptos clave de manera continua y motivadora |
-| 5 | Mi Progreso | Permitir al usuario visualizar su avance en distintas áreas y niveles alcanzados, fomentando la motivación y el reconocimiento personal |
-| 6 | Glosario de Términos | Facilitar el aprendizaje de nuevo vocabulario relacionado con AMI, con notificaciones inteligentes cuando se introducen nuevos términos en las actividades |
-| 7 | Perfil del Usuario | Mostrar información personal básica, permitir la personalización de la experiencia y acceder a opciones básicas de ayuda |
+| 4 | Desafíos Diarios | Proporcionar una actividad breve diaria que refuerce conceptos clave |
+| 5 | Mi Progreso | Visualización del avance del usuario |
+| 6 | Glosario de Términos | Acceso a definiciones clave y notificaciones de nuevos términos |
+| 7 | Perfil del Usuario | Información personal y configuración básica |
 
 ---
 
-## **3. Detalles de Cada Módulo**
+## 3. Módulo 1: Pantalla de Bienvenida / Inicio Local
 
-### **Módulo 1: Pantalla de Bienvenida / Inicio Local**
-
-#### **Propósito**
+### Propósito
 Personalizar la experiencia del niño sin necesidad de crear cuentas o usar contraseñas. Se inicia una sesión local basada únicamente en nombre y edad.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
-| **Logo animado** | Posible mascota o personaje guía que da la bienvenida visualmente. |
-| **"¡Hola! Como te llamas?"** | Mensaje inicial de bienvenida personalizado. |
-| **Campo Nombre** | Entrada de texto donde el niño ingresa su nombre. Este dato se usará para personalizar la experiencia. |
-| **Campo Edad (8-12)** | Selector numérico o campo editable para elegir la edad entre 8 y 12 años. Ayuda a adaptar el nivel de dificultad. |
-| **Selecciona tu avatar** | Galería interactiva de avatares predefinidos. El usuario puede seleccionar uno para representarse en la app. |
-| **Botón "jJugar!"** | Acción principal que inicia la navegación hacia la pantalla principal de la aplicación. |
-| **Texto informativo:** `"Solo es necesario tu nombre y edad para adaptar la app a ti"` | Justifica la recopilación de datos personales mínimos para ofrecer una experiencia personalizada. |
+| **Logo animado** | Posible mascota o personaje guía. Mejora la conexión emocional con la app. |
+| **"¡Hola! Como te llamas?"** | Mensaje inicial de bienvenida personalizado. Debería usarse una fuente más clara y legible para facilitar la lectura. |
+| **Campo Nombre** | Entrada de texto editable donde el niño ingresa su nombre. |
+| **Campo Edad (8-12)** | Selector numérico o campo editable. Mejoraría la UX si fuera un selector desplegable con rangos predefinidos. |
+| **Selecciona tu avatar** | Galería interactiva de avatares predefinidos. Se recomienda ofrecer opciones diversas e inclusivas (género, etnia, etc.). |
+| **Botón "¡Jugar!"** | Acción principal que inicia la navegación hacia la pantalla principal.|
+| **Texto informativo:** `"Solo es necesario tu nombre y edad para adaptar la app a ti"` | Justifica la recopilación de datos personales mínimos.` |
 
-#### **Consideraciones de Seguridad**
-- No se almacenan datos sensibles.
-- Sesión local, no requiere conexión ni registro.
-- Datos anonimizados si se recopilan estadísticas generales.
-
-#### **Estilo Visual**
-- Colores vibrantes y cálidos.
-- Tipografía redondeada y legible.
-- Iconografía clara y expresiva.
-- Uso de mascota guía animada durante carga.
-
+### Mejoras Sugeridas
+- Corregir errores ortográficos y gramaticales.
+- Usar iconografía estándar para campos de formulario (usuario, edad).
+- Incluir opción para cambiar idioma desde esta pantalla.
 ---
 
-### **Módulo 2: Pantalla de Inicio**
+## 4. Módulo 2: Pantalla de Inicio
 
-#### **Propósito**
+### Propósito
 Ser el punto de entrada principal de la aplicación, ofreciendo una interfaz amigable y motivadora tras el inicio local.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
 | **Logo animado** | Refuerza la identidad visual de la aplicación. |
-| **"iHola Sofia! iLista para aprender hoy?"** | Saludo personalizado que motiva al usuario a comenzar. |
+| **"¡Hola Sofia! ¿Lista para aprender hoy?"** | Saludo personalizado. |
 | **Acceso rápido a funciones principales** | Botones directos a Juegos Educativos, Desafío del Día y Mi Progreso. |
-| **Mini gráfico de progreso semanal** | Visualización sencilla del progreso del niño en la última semana. |
+| **Mini gráfico de progreso semanal** | Visualización sencilla del progreso del niño en la última semana. Mejora la motivación al ver avances. |
 | **Botones secundarios** | Acceso a Ayuda, Glosario y Configuración. |
 
-#### **Estilo Visual**
-- Colores vibrantes y cálidos.
-- Tipografía redondeada y legible.
-- Iconografía clara y expresiva.
+### Mejoras Sugeridas
+- Incluir una imagen o ícono representativo del desafío del día.
+- Mostrar tiempo estimado de completación del desafío diario.
+- Agregar tutorial interactivo para usuarios nuevos.
 
 ---
 
-### **Módulo 3: Juegos Educativos**
+## 5. Módulo 3: Juegos Educativos
 
-#### **Propósito**
+### Propósito
 Ofrecer actividades interactivas clasificadas por categorías temáticas para enseñar habilidades AMI de forma divertida.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
@@ -102,19 +113,25 @@ Ofrecer actividades interactivas clasificadas por categorías temáticas para en
 | **Barra de búsqueda** | Permite buscar juegos por palabra clave. |
 | **Sugerencias personalizadas** | Recomendaciones según el historial de juegos completados. |
 
-#### **Ejemplos de Juegos**
+### Ejemplos de Juegos
 - **Detective de Fake News**: Identificar noticias falsas mediante ejercicios interactivos.
 - **Crea tu propio video seguro**: Enseña buenas prácticas al crear contenido audiovisual.
 - **Redes sociales ¿amigas o peligrosas?**: Aprender a navegar responsablemente por redes sociales.
 
+### Mejoras Sugeridas
+- Incluir descripciones breves de los objetivos pedagógicos de cada juego.
+- Mostrar el tiempo promedio necesario para completar cada juego.
+- Permitir que los niños den calificaciones o comentarios sobre los juegos.
+- Añadir modo multijugador local o por turnos para fomentar el trabajo colaborativo.
+
 ---
 
-### **Módulo 4: Desafíos Diarios**
+## 6. Módulo 4: Desafíos Diarios
 
-#### **Propósito**
+### Propósito
 Proporcionar una actividad breve diaria que refuerce conceptos clave de manera continua y motivadora.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
@@ -123,19 +140,25 @@ Proporcionar una actividad breve diaria que refuerce conceptos clave de manera c
 | **Recordatorios configurables** | Notificaciones programables para incentivar el uso regular. |
 | **Enlaces a recursos complementarios** | Artículos explicativos y videos cortos relacionados con el desafío del día. |
 
-#### **Ejemplos de Desafíos**
+### Ejemplos de Desafíos
 - **"¿Cómo sabes si esta noticia es real?"** – Ejercicio de análisis de fuentes.
 - **"¿Qué haces si ves contenido inapropiado online?"** – Simulación de situación real.
 - **"Diseña tu propia contraseña segura"** – Actividad interactiva sobre seguridad digital.
 
+### Mejoras Sugeridas
+- Agregar opción de repetir el desafío con nuevos contenidos.
+- Mostrar retroalimentación inmediata al finalizar el desafío.
+- Incluir sistema de recompensas simbólicas (ej.: puntos, insignias).
+- Permitir compartir resultados con padres/tutores (opcional y con consentimiento).
+
 ---
 
-### **Módulo 5: Mi Progreso**
+## 7. Módulo 5: Mi Progreso
 
-#### **Propósito**
+### Propósito
 Permitir al usuario visualizar su avance en distintas áreas y niveles alcanzados, fomentando la motivación y el reconocimiento personal.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
@@ -145,19 +168,25 @@ Permitir al usuario visualizar su avance en distintas áreas y niveles alcanzado
 | **Objetivos pendientes** | Muestra qué retos aún no han sido superados. |
 | **Resumen semanal/mensual** | Gráficos comparativos del tiempo invertido y avance general. |
 
-#### **Indicadores Clave**
+### Indicadores Clave
 - Total de juegos completados
 - Tiempo invertido en la app
 - Logros semanales
 
+### Mejoras Sugeridas
+- Incluir metas personalizables (ej.: “Completa 3 juegos esta semana”).
+- Agregar opción de exportar el progreso (PDF o CSV).
+- Mostrar recomendaciones de juegos según áreas de mejora.
+- Integrar sistema de niveles (nivel 1, nivel 2, etc.) para hacerlo más gamificado.
+
 ---
 
-### **Módulo 6: Glosario de Términos**
+## 8. Módulo 6: Glosario de Términos
 
-#### **Propósito**
+### Propósito
 Facilitar el aprendizaje de nuevo vocabulario relacionado con AMI, con notificaciones inteligentes cuando se introducen nuevos términos en las actividades.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
@@ -167,123 +196,85 @@ Facilitar el aprendizaje de nuevo vocabulario relacionado con AMI, con notificac
 | **Notificación integrada** | `"¡Nuevo término añadido!"` + mini tarjeta del término. |
 | **Modo exploración** | Ver términos por categoría: Medios, Seguridad, Redes sociales, Veracidad. |
 
-#### **Ejemplos de Términos**
+### Ejemplos de Términos
 - **Fake News**: Noticias falsas.
 - **Fuente confiable**: Sitio o persona que ofrece información veraz.
 - **Contraseña segura**: Clave difícil de adivinar.
 - **Comentario respetuoso**: Opinión sin ofensas.
 
+### Mejoras Sugeridas
+- Incluir imágenes o ejemplos visuales junto a cada definición.
+- Agregar opción de escuchar la pronunciación de los términos.
+- Permitir que los niños creen sus propias tarjetas de memoria.
+- Vincular términos al glosario desde los juegos y desafíos.
+
 ---
 
-### **Módulo 7: Perfil del Usuario**
+## 9. Módulo 7: Perfil del Usuario
 
-#### **Propósito**
+### Propósito
 Mostrar información personal básica, permitir la personalización de la experiencia y acceder a opciones básicas de ayuda.
 
-#### **Componentes Visuales y Funcionales**
+### Componentes Visuales y Funcionales
 
 | Elemento | Descripción funcional |
 |----------|------------------------|
 | **Nombre del usuario** | `Sofia` – Visible en todo momento. |
-| **Edad** | `10 años` – Seleccionada durante el registro. |
+| **Edad** | `10 anos` – Seleccionada durante el registro. |
 | **Avatar actual** | Puede cambiarse desde el perfil. |
 | **Opciones de personalización** | Idioma, modo claro/oscuro, volumen y efectos sonoros. |
 | **Ayuda rápida** | Guía sencilla sobre cómo usar la aplicación. |
 | **Cerrar sesión / Reiniciar sesión local** | Útil para compartir dispositivos. |
 
----
-
-## **4. Barra de Navegación Inferior**
-
-Ubicación: Parte inferior visible en todas las pantallas principales.
-
-| Opción | Descripción funcional |
-|-------|------------------------|
-| **Inicio** | Vuelve a la pantalla principal de la aplicación desde cualquier otra sección. |
-| **Juegos** | Accede a la sección de juegos educativos disponibles, organizados por categoría y dificultad. |
-| **Desafios** | Redirige a la lista de desafíos diarios y pendientes. |
-| **Progreso** | Muestra estadísticas de aprendizaje del usuario: tiempo invertido, niveles alcanzados, insignias ganadas, etc. |
-| **Perfil** | Lleva al perfil del usuario, donde puede configurar opciones personales, revisar historial y cerrar sesión. |
+### Mejoras Sugeridas
+- Agregar opción de cambiar el avatar sin salir del perfil.
+- Incluir resumen rápido del progreso dentro del perfil.
+- Mostrar tutorial de ayuda contextual según el módulo actual.
+- Agregar opción de restablecer progreso (con confirmación).
 
 ---
 
-## **5. Estilo Visual y Consideraciones Técnicas**
+## 10. Guía de Estilo Visual
 
-### **Paleta de Colores**
-- **Verde (#4CAF50)**: Primario – crecimiento y confianza
-- **Naranja (#FF9800)**: Secundario – energía y creatividad
-- **Beige (#F5F5F5)**: Fondo – limpieza y calidez
-- **Negro (#000000) y Blanco (#FFFFFF)**: Contrastes
+### Paleta de Colores
+- Verde (#4CAF50): Primario – crecimiento y confianza
+- Naranja (#FF9800): Secundario – energía y creatividad
+- Beige (#F5F5F5): Fondo – limpieza y calidez
+- Negro (#000000) y Blanco (#FFFFFF): Contrastes
 
-### **Tipografía**
-- **Fuente principal:** Roboto Rounded (legible y amigable)
-- **Tamaños sugeridos:**
+### Tipografía
+- Fuente principal: Roboto Rounded (legible y amigable)
+- Tamaños sugeridos:
   - Títulos: 24px
   - Subtítulos: 18px
   - Texto normal: 16px
 
-### **Iconografía**
+### Iconografía
 - Estilo plano y minimalista
 - Ilustraciones expresivas y coloridas
 - Uso de mascota guía (ej.: robot curioso o zorro inteligente)
 
-### **Animaciones y Transiciones**
-- Transiciones suaves entre pantallas
-- Animaciones de recompensa cuando se completa una tarea
+---
 
-### **Accesibilidad**
-- Contraste suficiente
-- Texto legible
-- Soporte para lectores de pantalla
+## 11. Consideraciones Técnicas
+
+- **Responsive Design:** Compatible con móviles, tablets y navegadores web.
+- **Accesibilidad:**
+  - Contraste suficiente
+  - Texto legible
+  - Soporte para lectores de pantalla
+- **Animaciones simples:**
+  - Transiciones suaves entre pantallas
+  - Animaciones de recompensa cuando se completa una tarea
+- **Sin distracciones externas:** No incluir publicidad ni enlaces a redes sociales
 
 ---
 
-## **6. Escalabilidad Futura**
+## 12. Escalabilidad Futura
 
 Aunque la versión inicial se enfoca en niños de 8 a 12 años, se prevé ampliar la plataforma a:
 
-- **Adolescentes**: Módulos más complejos y temas como privacidad y redes sociales.
-- **Docentes**: Panel de control para asignar actividades y ver reportes de alumnos.
-- **Familias**: Contenido compartido y consejos para padres.
-- **Plataforma Web**: Complemento de la app móvil con recursos adicionales.
-
----
-
-## **7. Flujo de Interacción del Usuario**
-
-1. **Registro Inicial:**
-   - Nombre
-   - Edad
-   - Avatar
-   - Confirmar con `¡Jugar!`
-
-2. **Inicio:**
-   - Ver `Desafio del Dia`
-   - Acceder a `Juegos`, `Desafios`, `Progreso` o `Perfil`
-
-3. **Juegos Educativos:**
-   - Elegir categoría
-   - Buscar juego
-   - Comenzar juego
-
-4. **Desafío del Día:**
-   - Iniciar desafío
-   - Completar actividad
-   - Ganar insignia o puntos
-
-5. **Progreso:**
-   - Revisar gráficos de avance
-   - Explorar sugerencias
-   - Consultar logros
-
-6. **Perfil:**
-   - Editar datos personales
-   - Cambiar configuraciones
-   - Reiniciar sesión
-
-7. **Glosario:**
-   - Buscar término
-   - Añadir nuevo término
-   - Repasar definiciones
-
----
+- **Adolescentes:** Módulos más complejos y temas como privacidad y redes sociales.
+- **Docentes:** Panel de control para asignar actividades y ver reportes de alumnos.
+- **Familias:** Contenido compartido y consejos para padres.
+- **Plataforma Web:** Complemento de la app móvil con recursos adicionales.
