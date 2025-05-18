@@ -42,17 +42,28 @@ La aplicación se divide en **7 módulos principales**, cada uno con su propósi
 
 | Número | Módulo | Propósito |  
 |--------|--------|-----------|  
-| 1 | Pantalla de Bienvenida / Inicio Local | Personalizar la experiencia del niño sin necesidad de crear cuentas o usar contraseñas |  
-| 2 | Pantalla de Inicio | Ser el punto de entrada principal de la aplicación |  
-| 3 | Juegos Educativos | Ofrecer actividades interactivas clasificadas por categorías temáticas para enseñar habilidades AMI de forma divertida |  
-| 4 | Desafíos Diarios | Proporcionar una actividad breve diaria que refuerce conceptos clave |  
-| 5 | Mi Progreso | Visualización del avance del usuario |  
-| 6 | Glosario de Términos | Acceso a definiciones clave y notificaciones de nuevos términos |  
-| 7 | Perfil del Usuario | Información personal y configuración básica |  
+| 1 | Inicio de Aplicación | Es la primera pantalla a verse de la aplicación |  
+| 2 | Pantalla de Bienvenida / Inicio Local | Personalizar la experiencia del niño sin necesidad de crear cuentas o usar contraseñas |  
+| 3 | Pantalla de Inicio | Ser el punto de entrada principal de la aplicación |  
+| 4 | Juegos Educativos | Ofrecer actividades interactivas clasificadas por categorías temáticas para enseñar habilidades AMI de forma divertida |  
+| 5 | Desafíos Diarios | Proporcionar una actividad breve diaria que refuerce conceptos clave |  
+| 6 | Mi Progreso | Visualización del avance del usuario |  
+| 7| Glosario de Términos | Acceso a definiciones clave y notificaciones de nuevos términos |  
+| 8 | Perfil del Usuario | Información personal y configuración básica |  
 
 ---
+---
 
-## 3. Módulo 1: Pantalla de Bienvenida / Inicio Local  
+## 3. Módulo 1: Inicio de Aplicación**
+
+| Elemento | Descripción funcional |
+|----------|------------------------|
+| **Logo animado o mascota guía** | Mejora la conexión emocional del usuario con la app desde el primer momento. |
+| **Texto de bienvenida**<br>"Es la pantalla de bienvenida de PiensaPlay. Tiene un diseño simple y motivacional que introduce al usuario en la experiencia de aprendizaje." | Introduce al usuario en la filosofía lúdica y educativa de la aplicación. |
+| **Botón ¡Empezar!** | Acción principal para comenzar el proceso de incorporación. |
+
+---
+## 4. Módulo 2: Pantalla de Bienvenida / Inicio Local  
 
 ### Propósito  
 Personalizar la experiencia del niño sin necesidad de crear cuentas o usar contraseñas. Se inicia una sesión local basada únicamente en nombre y edad.  
@@ -76,13 +87,13 @@ Personalizar la experiencia del niño sin necesidad de crear cuentas o usar cont
 
 ---
 
-## 4. Módulo 2: Pantalla de Inicio  
+## 5. Módulo 3: Pantalla de Inicio  
 
 ### Propósito  
 Ser el punto de entrada principal de la aplicación, ofreciendo una interfaz amigable y motivadora tras el inicio local.  
 
 ### Componentes Visuales y Funcionales  
-
+**Opción A**
 | Elemento | Descripción funcional |  
 |----------|------------------------|  
 | **Logo animado** | Refuerza la identidad visual de la aplicación. |  
@@ -91,6 +102,15 @@ Ser el punto de entrada principal de la aplicación, ofreciendo una interfaz ami
 | **Mini gráfico de progreso semanal** | Visualización sencilla del progreso del niño en la última semana. |  
 | **Botones secundarios** | Acceso a Ayuda, Glosario y Configuración. |  
 
+**Opción B**
+| Elemento | Descripción funcional |
+|----------|------------------------|
+| **Lista de unidades disponibles** | Presenta las unidades temáticas desbloqueadas y bloqueadas según progreso. |
+| **Indicadores de progreso por unidad** | Gráficos simples que muestran el avance del usuario en cada unidad. |
+| **Botón Continuar** | Ingresa a una unidad desbloqueada. |
+| **Botón Perfil** | Navega al perfil del usuario para ver información personal y estadísticas. |
+| **Mensaje de bloqueo + Botón OK** | Se muestra si se intenta acceder a una unidad no desbloqueada; permite cerrarlo. |
+
 ### Mejoras Sugeridas  
 - Incluir una imagen o ícono representativo del desafío del día.  
 - Mostrar tiempo estimado de completación del desafío diario.  
@@ -98,20 +118,29 @@ Ser el punto de entrada principal de la aplicación, ofreciendo una interfaz ami
 
 ---
 
-## 5. Módulo 3: Juegos Educativos  
+## 6. Módulo 4: Juegos Educativos / Unidad  
 
 ### Propósito  
 Ofrecer actividades interactivas clasificadas por categorías temáticas para enseñar habilidades AMI de forma divertida.  
 
 ### Componentes Visuales y Funcionales  
-
+**Opción A**
 | Elemento | Descripción funcional |  
 |----------|------------------------|  
 | **Selector de categoría** | Filtros por Análisis de Contenido, Producción Digital y Seguridad Online. |  
 | **Rejilla de juegos** | Cada juego tiene miniatura, nombre, nivel de dificultad, descripción breve y estado (bloqueado/completado). |  
 | **Filtro por edad, dificultad y tema** | Herramientas para encontrar los juegos más adecuados. |  
 | **Barra de búsqueda** | Permite buscar juegos por palabra clave. |  
-| **Sugerencias personalizadas** | Recomendaciones según el historial de juegos completados. |  
+| **Sugerencias personalizadas** | Recomendaciones según el historial de juegos completados. |
+
+**Opción B**
+| Elemento | Descripción funcional |
+|----------|------------------------|
+| **Actividades por unidad** | Contenido dividido en ejercicios como emparejamiento de conceptos y crucigramas. |
+| **Botón Empezar** | Comienza la primera actividad de la unidad. |
+| **Botón Comprobar** | Valida las respuestas del usuario. |
+| **Botón Continuar** | Avanza a la siguiente actividad tras validar respuestas correctas. |
+| **Botón OK** | Cierra mensajes emergentes cuando se intenta acceder a contenido bloqueado. |
 
 ### Ejemplos de Juegos  
 - **Detective de Fake News**: Identificar noticias falsas mediante ejercicios interactivos.  
@@ -126,7 +155,7 @@ Ofrecer actividades interactivas clasificadas por categorías temáticas para en
 
 ---
 
-## 6. Módulo 4: Desafíos Diarios  
+## 7. Módulo 5: Desafíos Diarios  
 
 ### Propósito  
 Proporcionar una actividad breve diaria que refuerce conceptos clave de manera continua y motivadora.  
@@ -153,7 +182,7 @@ Proporcionar una actividad breve diaria que refuerce conceptos clave de manera c
 
 ---
 
-## 7. Módulo 5: Mi Progreso  
+## 8. Módulo 6: Mi Progreso  
 
 ### Propósito  
 Permitir al usuario visualizar su avance en distintas áreas y niveles alcanzados, fomentando la motivación y el reconocimiento personal.  
@@ -181,7 +210,7 @@ Permitir al usuario visualizar su avance en distintas áreas y niveles alcanzado
 
 ---
 
-## 8. Módulo 6: Glosario de Términos  
+## 9. Módulo 7: Glosario de Términos  
 
 ### Propósito  
 Facilitar el aprendizaje de nuevo vocabulario relacionado con AMI, con notificaciones inteligentes cuando se introducen nuevos términos en las actividades.  
@@ -210,7 +239,7 @@ Facilitar el aprendizaje de nuevo vocabulario relacionado con AMI, con notificac
 
 ---
 
-## 9. Módulo 7: Perfil del Usuario  
+## 10. Módulo 8: Perfil del Usuario  
 
 ### Propósito  
 Mostrar información personal básica, permitir la personalización de la experiencia y acceder a opciones básicas de ayuda.  
@@ -234,7 +263,7 @@ Mostrar información personal básica, permitir la personalización de la experi
 
 ---
 
-## 10. Guía de Estilo Visual  
+## 11. Guía de Estilo Visual  
 
 ### Paleta de Colores  
 - Verde (#4CAF50): Primario – crecimiento y confianza  
@@ -256,7 +285,7 @@ Mostrar información personal básica, permitir la personalización de la experi
 
 ---
 
-## 11. Consideraciones Pedagógicas  
+## 12. Consideraciones Pedagógicas  
 
 ### Diseño Basado en el Aprendizaje por Competencias  
 - **Pensamiento Crítico:** Actividades que requieren análisis de fuentes y verificación de información.  
@@ -279,7 +308,7 @@ Mostrar información personal básica, permitir la personalización de la experi
 
 ---
 
-## 12. Escalabilidad Futura  
+## 13. Escalabilidad Futura  
 
 Aunque la versión inicial se enfoca en niños de 8 a 12 años, se prevé ampliar la plataforma a:  
 
@@ -290,7 +319,7 @@ Aunque la versión inicial se enfoca en niños de 8 a 12 años, se prevé amplia
 
 ---
 
-## 13. Anexos  
+## 14. Anexos  
 
 ### Anexo A: Ejemplos de Juegos  
 - **Detective de Fake News:** Identificar noticias falsas mediante ejercicios interactivos.  
@@ -310,26 +339,13 @@ Aunque la versión inicial se enfoca en niños de 8 a 12 años, se prevé amplia
 
 ---
 
-## 14. Flujo de Navegación entre Módulos  
+## 15. Flujo de Navegación entre Módulos  
 
 ```
 Inicio Local → Pantalla de Inicio → [Juegos Educativos | Desafíos Diarios | Mi Progreso | Glosario | Perfil]
 ```  
 
 Desde cualquier sección, el usuario puede regresar al Inicio o acceder a otras funciones mediante la barra de navegación inferior.  
-
----
-
-## 15. Personalización del Avatar  
-
-### Opciones Disponibles  
-- **Género:** Opciones neutrales y representativas.  
-- **Etnia:** Diversidad de tonos de piel.  
-- **Estilo:** Ropa, accesorios, estilos de cabello variados.  
-
-### Interacción  
-- El avatar aparece en la pantalla de inicio y en el perfil.  
-- Algunos juegos permiten personalizar el avatar con accesorios según el progreso.  
 
 ---
 
